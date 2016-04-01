@@ -1,0 +1,9 @@
+Code-Review+2: Dmitry Tantsur <divius.inside@gmail.com>
+Workflow+1: Tan Lin <lin.tan@intel.com>
+Code-Review+2: Tan Lin <lin.tan@intel.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 01 Apr 2016 08:08:06 +0000
+Reviewed-on: https://review.openstack.org/287095
+Project: openstack/python-wsmanclient
+Branch: refs/heads/master
