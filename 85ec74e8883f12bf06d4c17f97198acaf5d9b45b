@@ -1,0 +1,9 @@
+Code-Review+2: Imre Farkas <ifarkas@redhat.com>
+Code-Review+2: Dmitry Tantsur <divius.inside@gmail.com>
+Workflow+1: Dmitry Tantsur <divius.inside@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 25 Aug 2016 13:43:18 +0000
+Reviewed-on: https://review.openstack.org/318691
+Project: openstack/python-wsmanclient
+Branch: refs/heads/master
